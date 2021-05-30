@@ -1,1 +1,1 @@
-This a simple user manage CRUD base application
+This is a simple user management CRUD based application
